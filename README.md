@@ -2,7 +2,7 @@
 
 Para darmos início ao Journey Web 2025, vamos começar revisitando conceitos essenciais de Git e GitHub. Para isso, propomos um desafio prático: resolver uma série de conflitos existentes dentro do repositório fornecido para esta jornada!
 
-Acesse o link [Inserir link] e localize o seu perfil correspondente dentro da nossa organização no GitHub. Dentro do seu repositório pessoal, você encontrará um template que guiará todo o seu aprendizado ao longo desta experiência na WebTech.
+Acesse o link  e localize o seu perfil correspondente dentro da nossa organização no GitHub. Dentro do seu repositório pessoal, você encontrará um template que guiará todo o seu aprendizado ao longo desta experiência na WebTech.
 
 ## **Habilidades a serem ﻿desenvolvidas**
 
